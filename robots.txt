@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://firdaussoberi.github.io//sitemap.xml
